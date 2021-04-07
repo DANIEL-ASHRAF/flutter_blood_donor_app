@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636651722936",
+    "firebase_url": "https://mapproject-288c9.firebaseio.com",
+    "project_id": "mapproject-288c9",
+    "storage_bucket": "mapproject-288c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636651722936:android:c22aafe7ebdec5cb6ebc4d",
+        "android_client_info": {
+          "package_name": "com.danielashraf.map_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636651722936-fj111kh38opn1qtk2niqcj403mp6g85v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danielashraf.map_app",
+            "certificate_hash": "0a0b818e8f641c0c96d4f1d981ddeee23ea7b361"
+          }
+        },
+        {
+          "client_id": "636651722936-6st6uvlj5es7ciebrauu853kkv4h3o7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOEOx2lFhJ01fjnO9ZPuhv688vEMSu_cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636651722936-6st6uvlj5es7ciebrauu853kkv4h3o7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

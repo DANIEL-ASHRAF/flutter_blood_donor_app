@@ -64,14 +64,21 @@ Drawer
   <tr>
     <td>Input data 1</td>
      <td>Input data 2</td>
-     <td>Locate 1</td>
-     <td>Locate 2</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/60400690/122075427-59f9e700-cdfa-11eb-9f9b-106b15f88465.jpeg" width=300 height=450></td>
     <td><img src="https://user-images.githubusercontent.com/60400690/122075430-59f9e700-cdfa-11eb-8de4-0dfb2b46dcf3.jpeg" width=300 height=450></td>
-    <td><img src="https://user-images.githubusercontent.com/60400690/122075397-55353300-cdfa-11eb-9ce0-b93041adf2b7.jpeg" width=300 height=450></td>
+  </tr>
+ </table>
+ 
+  <table>
+  <tr>
+     <td>Locate 1</td>
+     <td>Locate 2</td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/60400690/122075400-55353300-cdfa-11eb-94ff-74b1376f7226.jpeg" width=300 height=450></td>
+    <td><img src="https://user-images.githubusercontent.com/60400690/122075397-55353300-cdfa-11eb-9ce0-b93041adf2b7.jpeg" width=300 height=450></td>
   </tr>
  </table>
  

@@ -80,13 +80,15 @@ Drawer
     <td>List</td>
      <td>Search</td>
      <td>Send suggestions</td>
-     <td>Sign out</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/60400690/122075389-54040600-cdfa-11eb-8761-d981129dc573.jpeg" width=300 height=450></td>
     <td><img src="https://user-images.githubusercontent.com/60400690/122075410-57978d00-cdfa-11eb-8c5f-624341a8ef5d.jpeg" width=300 height=450></td>
     <td><img src="https://user-images.githubusercontent.com/60400690/122075411-58302380-cdfa-11eb-9e1a-054746ac8348.jpeg" width=300 height=450></td>
-    <td><img src="https://user-images.githubusercontent.com/60400690/122075418-58c8ba00-cdfa-11eb-8f81-9c38deabda39.jpeg" width=300 height=450></td>
   </tr>
  </table>
+ 
+Sign out
+
+<img src="https://user-images.githubusercontent.com/60400690/122075418-58c8ba00-cdfa-11eb-8f81-9c38deabda39.jpeg" width=300 height=450>
 
